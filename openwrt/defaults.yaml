@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+# vim: ft=yaml
+
+openwrt:
+  hostuser:
+      name: vagrant
+      group: vagrant
+  image:
+    firmwarebuilder:
+      name: extra2000/firmwarebuilder
+      tag: latest
