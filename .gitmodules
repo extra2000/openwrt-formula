@@ -1,3 +1,0 @@
-[submodule "openwrt/files/openwrt"]
-	path = openwrt/files/openwrt
-	url = https://github.com/openwrt/openwrt.git
