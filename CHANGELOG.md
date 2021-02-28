@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/extra2000/openwrt-formula/compare/v1.0.0...v2.0.0) (2021-02-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* **submodule:** Require `git clone` OpenWrt repository into `openwrt/files/`
+
+### Fixes
+
+* **submodule:** Remove OpenWrt from `git submodule` ([0d99203](https://github.com/extra2000/openwrt-formula/commit/0d992039129114cb4867ddd323dac2afea7d1346))
+
 ## 1.0.0 (2021-02-16)
 
 
