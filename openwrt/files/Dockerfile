@@ -14,7 +14,9 @@ RUN apt update && apt install -y \
     libncurses5-dev \
     libssl-dev \
     python2.7 \
+    python-dev \
     python3 \
+    python3-dev \
     rsync \
     subversion \
     swig \
