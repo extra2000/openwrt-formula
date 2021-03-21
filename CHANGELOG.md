@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.1](https://github.com/extra2000/openwrt-formula/compare/v2.0.0...v2.0.1) (2021-03-21)
+
+
+### Fixes
+
+* **Dockerfile:** Add `python-dev` and `python3-dev` packages ([568a1ab](https://github.com/extra2000/openwrt-formula/commit/568a1ab66471f4b798d6734ff7846e8b8e96874a))
+
 ## [2.0.0](https://github.com/extra2000/openwrt-formula/compare/v1.0.0...v2.0.0) (2021-02-28)
 
 
