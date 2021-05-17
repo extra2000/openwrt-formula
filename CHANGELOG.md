@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.2](https://github.com/extra2000/openwrt-formula/compare/v2.0.1...v2.0.2) (2021-05-17)
+
+
+### Fixes
+
+* **pillar:** fix indentation in `openwrt/defaults.yaml` and `pillar.example` ([f724914](https://github.com/extra2000/openwrt-formula/commit/f724914ce0a4efa499fb0bbec92acd1ee00b2417))
+
 ### [2.0.1](https://github.com/extra2000/openwrt-formula/compare/v2.0.0...v2.0.1) (2021-03-21)
 
 
