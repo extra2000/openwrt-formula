@@ -4,5 +4,5 @@
 openwrt:
   lookup:
     hostuser:
-        name: vagrant
-        group: vagrant
+      name: vagrant
+      group: vagrant

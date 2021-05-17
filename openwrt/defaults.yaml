@@ -3,8 +3,8 @@
 
 openwrt:
   hostuser:
-      name: vagrant
-      group: vagrant
+    name: vagrant
+    group: vagrant
   image:
     firmwarebuilder:
       name: extra2000/firmwarebuilder
